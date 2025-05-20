@@ -1,4 +1,4 @@
-# Teste Técnico - Teknisa
+# Lumen API - Email Sender
 
 ## API Lumen desenvolvida para simular envio de emails utilizando a rota POST.
 
